@@ -15,7 +15,7 @@ Liquid chromatography mass spectrometry (LC-MS) data is typically very large in 
   <li>wx
 </ul>
 
-### Controlling the UI
+## Controlling the UI
 <ul>
   <li>Mouse Scroll Up- Zoom In</li>
   <li>Mouse Scroll Down - Zoom Out</li>
