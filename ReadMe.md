@@ -5,6 +5,16 @@ Liquid chromatography mass spectrometry (LC-MS) data is typically very large in 
 ## Sample Output
 <img width="410px" height="430px" src="https://github.com/jiangs11/LCMS-Data-Visualization/blob/master/Sample%20Output.PNG"/>
 
+## Required Libraries
+<ul>
+  <li>os
+  <li>numpy
+  <li>mayavi
+  <li>pandas
+  <li>scipy
+  <li>wx
+</ul>
+
 ### Controlling the UI
 <ul>
   <li>Mouse Scroll Up- Zoom In</li>
