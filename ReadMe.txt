@@ -1,0 +1,6 @@
+Liquid chromatography mass spectrometry (LC-MS) data is typically very large in 
+size and often difficult and time-consuming to interpret. This project focuses 
+on metabolomics data collected by the mass spectrometers. We used Mayavi, a 
+application and library for interactive scientific data visualization and 3D 
+plotting in Python. Unlike Matplotlib, Mayavi is capable of handling data of 
+large size. 
